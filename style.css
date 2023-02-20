@@ -1,0 +1,86 @@
+body {
+   background-color: whitesmoke;
+   color: rgba(0, 0, 0, 0.6);
+   font-family: 'Roboto' , sans-serif ;
+} 
+
+
+
+element.style {
+    margin: 50px;
+    padding: 60px;
+    background: white;
+    box-shadow: 0px 10px 30px #dba5bd;
+    border-radius: 5px;
+}
+
+
+
+
+}
+
+h1, h2, h3 {
+   font-family: 'Roboto' , sans-serif ;
+}
+h1 {
+	color: #2f4858;
+    font-size: 80px;
+    font-family: 'Roboto' , sans-serif;
+    font-weight: bolder;
+}
+
+h2 {
+	color: #0d2149;
+	font-weight: lighter;
+}
+
+a {
+   text-decoration: none;
+   color: rgba(0, 0, 0, 0.4);
+}
+
+a:hover{
+   color: rgba(0, 0, 0, 0.4);
+}
+
+/* Custom design with class */ 
+
+.container {
+    width: 700px;
+    margin: 40px auto;
+}
+
+.img-circle {
+   border-radius: 50%;
+}
+
+.card-white {
+   text-align: center;
+}
+
+.btn-pink {
+   background-color: #96bdc6;
+   color: whitesmoke;
+   padding: 15px 20px;
+   border-radius: 5px;
+}
+
+.btn-pink:hover {
+   background-color: #2f4858;
+   color: whitesmoke;
+}
+
+.list-inline {
+   list-style: none;
+   padding-left: 0px;
+}
+
+.list-inline li {
+   display: inline;
+   padding: 10px;
+}
+
+#introduction  p {
+margin-bottom: 40px;
+}
+
